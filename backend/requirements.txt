@@ -1,0 +1,17 @@
+fastapi[standard]
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+psycopg2-binary
+alembic
+python-multipart
+websockets
+pydantic-settings
+yt-dlp
+youtube-transcript-api
+mediapipe
+opencv-python
+numpy
+torch
+torchvision
+transformers

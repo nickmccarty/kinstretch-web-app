@@ -1,0 +1,10 @@
+yt-dlp
+youtube-transcript-api
+mediapipe
+opencv-python
+pandas
+matplotlib
+pydantic
+torch
+torchvision
+transformers
