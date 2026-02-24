@@ -1,5 +1,7 @@
 # Kinstretch Pose Analysis
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/nickmccarty/kinstretch-web-app)
+
 Full-stack web app for analyzing kinstretch and mobility movements using 3D pose estimation. Upload a video, paste a YouTube URL, or use your webcam to capture real-time pose data. Inspect movements in an interactive 3D viewer, measure joint angles with anatomical plane decomposition, and track range of motion over time with interactive charts.
 
 ## Tech Stack
